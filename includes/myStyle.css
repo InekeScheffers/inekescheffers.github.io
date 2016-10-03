@@ -1,4 +1,5 @@
-body {
+body, 
+.banner {
 	background-image: url("./background_image.jpg");
 }
 
