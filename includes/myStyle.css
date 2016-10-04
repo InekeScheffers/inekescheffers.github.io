@@ -10,3 +10,9 @@ body,
 .content-section-b {
     background-color: #efeded;
 }
+
+footer {
+	padding: 10px;
+	text-align: right;
+	color: #7e7a7a;
+}
