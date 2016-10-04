@@ -1,5 +1,7 @@
 body {
 	background-image: url("./background_image.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .social-icon {
@@ -13,7 +15,7 @@ body {
 footer {
 	padding: 10px;
 	text-align: right;
-	color: #7e7a7a;
+	color: #777;
 	box-shadow: 10px -10px 20px black;
 }
 
