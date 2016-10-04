@@ -16,3 +16,7 @@ footer {
 	text-align: right;
 	color: #7e7a7a;
 }
+
+.entirePortfolio {
+	box-shadow: 0px 10px 20px black, 0px -10px 20px black;
+}
