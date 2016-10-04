@@ -8,7 +8,7 @@ $(document).ready(function() {
 });
 
 
-$('.intro-message').hide();
+//$('.intro-message').hide();
 $('.intro-message').fadeIn(7000);
 
 $('.scroll').click(function(event){
