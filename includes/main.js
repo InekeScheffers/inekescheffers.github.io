@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('#social-icon').hover(function() {
+  $('.social-icon').hover(function() {
     $(this).effect( 'bounce', { times: 1 }, 'slow');
 
   });

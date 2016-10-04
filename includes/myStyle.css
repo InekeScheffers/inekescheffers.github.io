@@ -3,7 +3,7 @@ body,
 	background-image: url("./background_image.jpg");
 }
 
-#social-icon {
+.social-icon {
 	max-width: 50px;
 }
 
