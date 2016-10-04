@@ -1,3 +1,5 @@
+console.log("Hi fellow developer, welcome to my portfolio! You can offer or tip me a coding internship starting from January 2017 any time.");
+
 $(document).ready(function() {
   $('.social-icon').hover(function() {
     $(this).effect( 'bounce', { times: 1 }, 'slow');
