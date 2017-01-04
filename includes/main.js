@@ -1,7 +1,7 @@
-console.log("Hi fellow developer, welcome to my portfolio! You can offer or tip me a coding internship starting from January 2017 any time.");
+console.log("Hi fellow developer, welcome to my portfolio! You can offer or tip me a coding job or traineeship any time.");
 
 $(document).ready(function() {
-  $('.social-icon').hover(function() {
+  $('.social-icon').mouseenter(function() {
     $(this).effect( 'bounce', { times: 1 }, 'slow');
 
   });
