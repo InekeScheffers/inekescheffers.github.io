@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>test</title>
+    <googleplay:author>Test</googleplay:author>
+    <rawvoice:rating>TV-PG</rawvoice:rating>
+    <rawvoice:location>test</rawvoice:location>
+    <rawvoice:frequency>Monthly</rawvoice:frequency>
+    <author>test</author>
+    <itunes:author>test</itunes:author>
+    <itunes:email>test</itunes:email>
+    <itunes:category text="Technology" />
+    <image>
+      <url>https://test.github.io/folder/img/icon.jpg</url>
+      <title>title podcast</title>
+      <link>link to player on github page/to podcast ie spotify, gc site?</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>test</itunes:name>
+      <itunes:email>test</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>test,podcast,keywordswithcommas</itunes:keywords>
+    <copyright>Test Productions 2020</copyright>
+    <description>test text</description>
+    <googleplay:image href="https://test.github.io/folder/img/icon.jpg" />
+    <language>nl-nl</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Mon, 13 Apr 2020 13:00:00 PDT</pubDate>
+    <link>https://test.github.io/feed.xml</link>
+    <itunes:image href="https://test.github.io/folder/icon.jpg" />
+    <item>
+      <author>test</author>
+      <itunes:author>test</itunes:author>
+      <title>test</title>
+      <pubDate>Mon, 13 Apr 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://test.github.io/folder/episode.mp3" type="audio/mpeg" length="34216300" />
+      <itunes:duration>54:08</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Test Name - @testTwitter
+
+https://twitter.com/test
+
+https://github.com/test
+
+https://youtube.com/test
+
+https://test.com
+        </description>
+    </item>
+  </channel>
+</rss>
